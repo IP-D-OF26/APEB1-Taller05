@@ -70,7 +70,7 @@ public class Ejercicio01_LegibleVotacion {
 
 ### Problema10
 ---
-**Facturación eléctrica:** Desarrollar una solución que permita calcular y mostrar el valor a cancelar de una planilla de luz. Se debe ingresar el valor de costo por kilovatio/hora y el número de kilovatios consumidos en el mes. Si el usuario tiene edad mayor a 65 años, se debe descontar el 10% por pertenecer a la tercera edad.
+**Facturación eléctrica:** Dado un valor entero ingresado por teclado *(positivo o negativo)*, determinar si se trata de un valor par o impar.
 
 ### Problema11
 ---
