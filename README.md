@@ -4,9 +4,9 @@
 
 * En su asignatura ***Fundamentos computacionales***, resolvió *(análisis, diseño de algoritmos, flujograma, prueba de escritorio, etc.)* algunos problemas con estructuras de contral selectivas básicas. El objetivo a continuación es codificar similares algoritmos, pero en el lenguaje de programación de alto nivel **JAVA**. 
 * Programar/codifícar con el lenguaje de alto nivel Java (en el IDE NetBeans), sus soluciones a cada uno de los problemas listados a continuación dadas las siguientes instrucciones: 
-> 1. Clone este repositorio en su PC local `git clone URL` 
-> 2. En NetBeans cree un nuevo proyecto de tipo ***Java Application*** con el siguiente nombre: ***Proyect-APEB1-Taller05*** eligiendo como localización del proyecto, el repositorio (carpeta) clonada localmente en el *paso 1*.
-> 3. Para cada problema, genere una clase/programa independiente pero dentro del único proyecto Java App creado en el *paso 2*. No olvide titular cada clase con el número del problema y un nombre representativo de la solución. Ejemplo: ***Ejercicio01_LegibleVotacion***
+    1. Clone este repositorio en su PC local `git clone URL` 
+    2. En NetBeans cree un nuevo proyecto de tipo ***Java Application*** con el siguiente nombre: ***Proyect-APEB1-Taller05*** eligiendo como localización del proyecto, el repositorio (carpeta) clonada localmente en el *paso 1*.
+    3. Para cada problema, genere una clase/programa independiente pero dentro del único proyecto Java App creado en el *paso 2*. No olvide titular cada clase con el número del problema y un nombre representativo de la solución. Ejemplo: ***Ejercicio01_LegibleVotacion***
 * Al ser una tarea grupal por favor desarrollarla colaborativamente, todos los integrantes del grupo deben conocer de todas las soluciones.  
 * Verifique sus soluciones con las técnicas de compilación, ejecución y depurado de programas.
 * Documente las soluciones con los bloques: (1.-) ***Documentación del problema***, y (2.-) ***Evidencia del funcionamiento y resultados***. Para ello, al inicio y final como parte de la codificación (en comentarios /*** ), copiar y pegar el enunciado del problema, y al final, los resultados obtenidos de consola **RUN**. Ejemplo: 
