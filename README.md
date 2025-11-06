@@ -85,4 +85,4 @@ public class Ejercicio01_LegibleVotacion {
 **Sistema de reservas hoteleras:** En una hostería de la ciudad de Loja se hace un descuento del **10%** si el cliente se hospeda más de **5** días, del **15%** si se hospeda más de **10** días y del **20%** si se hospeda más de **15** días. Elaborar una solución que pida el número de días y el precio diario de la habitación y luego calcule e imprima el subtotal por pagar, el descuento y el total por pagar.
 
 
-**Mucho aprendizaje en este taller 5**
+**Mucho aprendizaje en este taller 5 !!!**
