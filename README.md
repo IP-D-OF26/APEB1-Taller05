@@ -1,6 +1,6 @@
 # Taller05 - Grupal
 
-## Programar estructuras de control selectivas simples y dobles - GRUPAL
+## Construcción de programas usando estructuras de selección simple y compuesta - Grupal
 
 * En su asignatura ***Fundamentos computacionales***, resolvió *(análisis, diseño de algoritmos, flujograma, prueba de escritorio, etc.)*, algunos problemas con estructuras de control selectivas básicas. El objetivo a continuación es codificar similares algoritmos, pero en el lenguaje de programación de alto nivel **JAVA**. 
 * Programar/codificar en el lenguaje de alto nivel Java *(en el IDE NetBeans)*, sus soluciones a cada uno de los problemas listados a continuación dadas las siguientes instrucciones: 
