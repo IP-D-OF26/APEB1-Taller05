@@ -7,8 +7,8 @@
     1. Clone este repositorio en su **PC** local `git clone URL_del_repo` 
     2. En su ***IDE*** cree un nuevo proyecto de tipo ***Java Application*** con el siguiente nombre: ***Proyect-APEB1-Taller05*** eligiendo como localización del proyecto, el repositorio *(carpeta)* clonada localmente en el *paso anterior*.
     3. Para cada problema, genere una clase/programa java independiente pero dentro del único proyecto (*Java App* creado en el *paso anterior*). No olvide nombrar cada clase con el número del problema y un nombre representativo de la solución. Ejemplo: ***Ejercicio01_LegibleVotacion***
-    4. Finalizado el taller *(o cada ejercicio)*, sincronice los cambios de su **PC** local, a este repositorio remoto de GitHub con los comandos: `git add .` `git commit -m "Mensaje de la versión"` `git push`
-* Este taller grupal se debe desarrollar colaborativamente. Cada integrante del grupo debe conocer todas las soluciones. Por ello, cada par académico DESCARGA / ACTUALIZA *(en su PC local)*, los cambios subidos anteriormente por su líder con el comando `git pull`. 
+    4. Finalizado el taller *(o cada ejercicio)*, sincronice los cambios de su **PC** local a este repositorio remoto de **GitHub**, con los comandos: `git add .` `git commit -m "Mensaje de la versión"` `git push`
+* Desarrolle este taller grupal colaborativamente, cada integrante debe conocer todas las soluciones. Para ello, cada par académico DESCARGA / ACTUALIZA *(en su PC local)*, los cambios subidos anteriormente por su líder con el comando `git pull`. 
 * Verifique sus soluciones con las técnicas de compilación, ejecución y depurado de programas.
 * Documente las soluciones con los bloques: (1.-) ***Documentación del problema***, y (2.-) ***Evidencia del funcionamiento y resultados***. Para ello, al inicio y final como parte de la codificación (en comentarios /*** ), copiar y pegar el enunciado del problema, y al final, los resultados obtenidos de consola **RUN**. Ejemplo: 
 
