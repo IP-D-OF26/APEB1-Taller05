@@ -70,7 +70,7 @@ public class Ejercicio01_LegibleVotacion {
 
 ### Problema10
 ---
-**Facturación eléctrica:** Dado un valor entero ingresado por teclado *(positivo o negativo)*, determinar si se trata de un valor par o impar.
+**Valores pares o impares:** Dado un valor entero ingresado por teclado *(positivo o negativo)*, determinar si se trata de un valor par o impar.
 
 ### Problema11
 ---
